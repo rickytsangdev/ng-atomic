@@ -1,7 +1,6 @@
-<script>
+<h1 class="text-3xl font-bold ">
+    Hello world!
+  </h1>
 
-</script>
 
-
-
-<h1>hello bro</h1>
+  
