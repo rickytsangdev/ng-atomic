@@ -1,6 +1,6 @@
 <script>
     import UserInfo from "$lib/components/2.molecules/UserInfo.svelte"
-    import CircleButton from "$lib/components/1.atoms/CircleButton.svelte"
+    import CircleButton from "$lib/components/1.atoms/CircleChip.svelte"
 
 imoprt UserInfo
 
@@ -11,4 +11,4 @@ imoprt UserInfo
  </h1>
 
 
- <CircleButton text="Hello" />
+<CircleButton text="Hello" />
