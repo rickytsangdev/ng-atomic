@@ -1,5 +1,5 @@
 # ng-atomic
-# 🧱 Angular Atomic UI Library
+# Angular Atomic UI Library
 
 A clean, scalable UI component library based on Atomic Design (Atoms, Molecules, Organisms...) built with Angular.
 
